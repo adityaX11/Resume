@@ -85,4 +85,10 @@ html{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 
 }
+.pro-img:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    box-shadow: 0 0 20px rgba(173, 186, 86, 0.5);
+}
+
 
